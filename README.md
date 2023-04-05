@@ -48,3 +48,11 @@ chmod u+x producer.py
 
 The messages should be printed out in the console and the ```consumer.py``` will wait for any new incoming messages.
 Quit the ```consumer.py``` using Control+C.
+
+## Contributing
+
+Contributions are always welcome! If you have any improvements or new examples to add, please submit a pull request.
+
+## License
+
+This repository is licensed under the MIT license. See the [LICENSE](LICENSE) file for details.
